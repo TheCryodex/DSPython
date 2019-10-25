@@ -1,2 +1,2 @@
 # DSPython
-This repo contains Python 3 implementation of various Data Structures
+This repo contains Python3 implementation of various Data Structures
